@@ -1,5 +1,5 @@
 # Sales-Analysis-in-Python
-In this project, I am going to answer these five business questions.
+In this project, I am going to answer these five business questions regarding electronics store purchases.
 
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
